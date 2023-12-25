@@ -81,7 +81,7 @@ html{
     transition: 0.5s;
     position: absolute;
     background-color: white;
-    -webkit-mask-image: url(./Home.svg) 
+    -webkit-mask-image: url(./images/Home.svg) 
 }
 
 .light{
@@ -102,7 +102,7 @@ html{
     transition: 0.5s;
     /* position: absolute; */
     background-color: white;
-    -webkit-mask-image: url(./11.svg) 
+    -webkit-mask-image: url(./images/11.svg) 
 }
 
 .menu2{
@@ -119,7 +119,7 @@ html{
     /* position: absolute; */
     background-color: white;
     /* background-color: black; */
-    -webkit-mask-image: url(./2.svg) 
+    -webkit-mask-image: url(./images/2.svg) 
 }
 
 .menu3{
@@ -135,7 +135,7 @@ html{
     transition: 0.5s;
     /* position: absolute; */
     background-color: white;
-    -webkit-mask-image: url(./3.svg) 
+    -webkit-mask-image: url(./images/3.svg) 
 }
 
 .menu4{
@@ -151,7 +151,7 @@ html{
     transition: 0.5s;
     /* position: absolute; */
     background-color: white;
-    -webkit-mask-image: url(./4.svg) 
+    -webkit-mask-image: url(./images/4.svg) 
 }
 
 .menu5{
@@ -167,7 +167,7 @@ html{
     transition: 0.5s;
     /* position: absolute; */
     background-color: white;
-    -webkit-mask-image: url(./5.svg) 
+    -webkit-mask-image: url(./images/5.svg) 
 }
 
 
@@ -284,7 +284,7 @@ html{
         transition: 0.5s;
         /* position: absolute; */
         background-color: white;
-        -webkit-mask-image: url(./lupa.svg) 
+        -webkit-mask-image: url(./images/lupa.svg) 
   }
 
   .content{
@@ -310,7 +310,7 @@ html{
     transition: 0.5s;
     /* position: absolute; */
     background-color: white;
-    -webkit-mask-image: url(./down.svg) 
+    -webkit-mask-image: url(./images/down.svg) 
 }
 
 .corner{
